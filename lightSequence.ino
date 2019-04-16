@@ -5,7 +5,7 @@
   and jumps to the next one till the chain is finished. This cyclus will be repeated infinitly.
 
   Created: 09 April 2019
-  Autoher: Patrick Scheidegger
+  Author: Patrick Scheidegger
 
   This code was intentionally created for the LB 2 of the learning unit (module) 242.
 */
