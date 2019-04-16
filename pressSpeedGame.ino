@@ -5,7 +5,7 @@
   will get turned on. The game will restart if all LEDs are turned on and some additional clicks are done.
 
   Created: 09 April 2019
-  Autoher: Patrick Scheidegger
+  Author: Patrick Scheidegger
 
   This code was intentionally created for the LB 2 of the learning unit (module) 242.
 */
